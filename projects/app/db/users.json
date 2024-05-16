@@ -1,0 +1,29 @@
+{
+   "1711963727248065300": {
+      "full_name": "Alijon Shamsiyev",
+      "password": "123",
+      "phone_number": null,
+      "email": "alijon@gmail.com",
+      "user_id": "1711963727248065300",
+      "created_at": "2024-04-01 18:52:33.103548",
+      "language": "en"
+   },
+   "1711982650512972400": {
+      "full_name": "Tolmas Abdujalilov",
+      "password": "b'$2b$04$2IEfoSIhgCix6Wo9hM/pr.9MoLRzGZH3BkF04WDihhujmBEkCmBZ6'",
+      "phone_number": "444444",
+      "email": null,
+      "user_id": "1711982650512972400",
+      "created_at": "2024-04-01 19:44:10.512972",
+      "language": "en"
+   },
+   "1711983046072392600": {
+      "full_name": "Mirshod Qayimov",
+      "password": "b'$2b$04$wC6c1CJ9f5aUGq3SnnsHCeIR/ZUJa.s7CkR2gME3y18knj92Ta8MS'",
+      "phone_number": "123466",
+      "email": null,
+      "user_id": "1711983046072392600",
+      "created_at": "2024-04-01 19:50:46.072392",
+      "language": "en"
+   }
+}
